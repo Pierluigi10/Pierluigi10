@@ -2,17 +2,7 @@
   <h3>Hi there, I'm Pier!!👋 </h3>
 </div>
 
-<!--
-**Pierluigi10/Pierluigi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on learning how to code. I want be a great web developer!
-- 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about ...
-  - 📫 How to reach me: 
-- ⚡ Fun fact:
- -->
  
  <div align="center">
   <a href="https://github.com/Pierluigi10">
